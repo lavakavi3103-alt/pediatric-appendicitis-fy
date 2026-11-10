@@ -1,5 +1,4 @@
-# Multimodal, Feature-Optimized and Uncertainty-Aware Deep Learning Framework for Secure Pediatric Appendicitis & Peritonitis Diagnosis
-
+# PediaFuse:Uncertainty-Aware Feature-Optimized Deep Learning Framework for Pediatric Appendicitis and Peritonitis Diagnosis
 ## Overview
 
 This project proposes a multimodal diagnostic framework for pediatric appendicitis detection and severity (peritonitis) classification, combining structured clinical data with ultrasound imaging. It builds on and extends prior work (Dyuthishree et al.) by introducing comparative feature selection (Boruta vs. a custom Duck Swarm Algorithm), multimodal fusion, conformal prediction for calibrated uncertainty, and a secure, deployable architecture.
