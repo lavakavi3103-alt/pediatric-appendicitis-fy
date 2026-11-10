@@ -1,0 +1,3 @@
+Algorithm,Key_Bits,Encryption_ms,Decryption_ms,Integrity_Verified
+AES-256-GCM,256,0.004865,0.004287,True
+ChaCha20-Poly1305,256,0.003368,0.003223,True

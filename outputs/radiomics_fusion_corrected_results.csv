@@ -1,0 +1,7 @@
+Target,Config,N,Accuracy,F1,AUC
+Diagnosis,Clinical only,578,0.8702,0.8148,0.9425
+Diagnosis,Clinical + Radiomics,578,0.8841,0.8304,0.9534
+Severity,Clinical only,579,0.8342,0.9044,0.7796
+Severity,Clinical + Radiomics,579,0.8549,0.917,0.8019
+Peritonitis,Clinical only,572,0.6731,0.4076,0.6799
+Peritonitis,Clinical + Radiomics,572,0.701,0.415,0.6623

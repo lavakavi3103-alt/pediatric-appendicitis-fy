@@ -1,0 +1,2 @@
+method,alpha,nominal_coverage,calibration_n,test_n,qhat,empirical_coverage,average_set_size,singleton_n,ambiguous_n,empty_n
+exploratory_split_conformal_validation_reused_for_early_stopping,0.1,0.9,93,116,4.53805951110553e-05,0.46551724137931033,0.5258620689655172,61,0,55

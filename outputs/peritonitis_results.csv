@@ -1,0 +1,13 @@
+Sampler,Model,Accuracy,MacroF1,AUC
+No resampling,Soft Voting,0.7605,0.4941,0.796
+Borderline-SMOTE,XGBoost,0.757,0.5418,0.7967
+ADASYN,CatBoost,0.757,0.5619,0.7852
+Borderline-SMOTE,Soft Voting,0.7552,0.5288,0.796
+ADASYN,Soft Voting,0.7517,0.5091,0.7887
+No resampling,XGBoost,0.75,0.4973,0.7937
+ADASYN,XGBoost,0.7483,0.526,0.7879
+No resampling,GradBoost,0.743,0.4908,0.7679
+ADASYN,GradBoost,0.7413,0.5128,0.7757
+Borderline-SMOTE,CatBoost,0.7413,0.5432,0.7983
+No resampling,CatBoost,0.7395,0.4395,0.7998
+Borderline-SMOTE,GradBoost,0.7378,0.5117,0.7646

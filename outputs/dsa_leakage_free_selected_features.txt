@@ -1,0 +1,71 @@
+Paedriatic_Appendicitis_Score
+Appendix_Diameter
+Body_Temperature
+RBC_Count
+Hemoglobin
+Thrombocyte_Count
+Appendix_on_US_no
+Appendix_on_US_yes
+Migratory_Pain_yes
+Lower_Right_Abd_Pain_missing
+Lower_Right_Abd_Pain_no
+Contralateral_Rebound_Tenderness_missing
+Contralateral_Rebound_Tenderness_yes
+Coughing_Pain_no
+Nausea_no
+Nausea_yes
+Loss_of_Appetite_no
+Loss_of_Appetite_yes
+Ketones_in_Urine_missing
+Ketones_in_Urine_no
+RBC_in_Urine_+
+RBC_in_Urine_++
+RBC_in_Urine_+++
+RBC_in_Urine_missing
+RBC_in_Urine_no
+WBC_in_Urine_++
+WBC_in_Urine_missing
+Stool_constipation, diarrhea
+Stool_diarrhea
+Psoas_Sign_no
+Psoas_Sign_yes
+Ipsilateral_Rebound_Tenderness_no
+US_Performed_no
+Free_Fluids_no
+Free_Fluids_yes
+Appendix_Wall_Layers_intact
+Appendix_Wall_Layers_missing
+Appendix_Wall_Layers_upset
+Target_Sign_no
+Target_Sign_yes
+Appendicolith_no
+Perfusion_hyperperfused
+Perfusion_missing
+Perfusion_no
+Surrounding_Tissue_Reaction_missing
+Surrounding_Tissue_Reaction_no
+Surrounding_Tissue_Reaction_yes
+Pathological_Lymph_Nodes_no
+Pathological_Lymph_Nodes_yes
+Lymph_Nodes_Location_Mesenterial, links inguinal
+Lymph_Nodes_Location_ileocöcal
+Lymph_Nodes_Location_lokal um die Appendix
+Lymph_Nodes_Location_mesenterial
+Lymph_Nodes_Location_mesenterial, re UB
+Lymph_Nodes_Location_re MB
+Lymph_Nodes_Location_re UB
+Lymph_Nodes_Location_re UB 
+Lymph_Nodes_Location_re UB, ileocoecal
+Lymph_Nodes_Location_reUB
+Conglomerate_of_Bowel_Loops_yes
+Ileus_no
+Ileus_yes
+Coprostasis_yes
+Meteorism_missing
+Meteorism_no
+Meteorism_yes
+Enteritis_yes
+Gynecological_Findings_In beiden Ovarien Zysten darstellbar, links Ovar mit regelrechter Perfusion, rechts etwas vergrößert, keine eindeutige Perfusion nachweisbar. Retrovesikal freie Flüssigkeit mit Binnenecho
+Gynecological_Findings_Ovarialzyste 
+Gynecological_Findings_Ovarialzysten
+Gynecological_Findings_keine

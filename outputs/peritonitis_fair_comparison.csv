@@ -1,0 +1,6 @@
+Model,Train_CV_Accuracy,Train_CV_SD,Selected,Holdout_Accuracy,Holdout_MacroF1
+Soft Voting,0.6959,0.0163,True,0.7043,0.4032
+CatBoost,0.6959,0.0243,False,,
+XGBoost,0.6915,0.0083,False,,
+LightGBM,0.674,0.0119,False,,
+Stacking,0.6345,0.0257,False,,
