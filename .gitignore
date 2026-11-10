@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+data/raw/
+data/processed/
+outputs/*.pkl
+outputs/*.cbm
+outputs/*.joblib
+outputs/*.pt
+outputs/*.pth
+outputs/*.h5
+outputs/*.keras
+
+# Training logs and generated outputs
+catboost_info/
+outputs/
+data/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+.env.*
+
+# Model files
+*.pkl
+*.cbm
+*.joblib
+*.pt
+*.pth
+*.h5
+*.keras
